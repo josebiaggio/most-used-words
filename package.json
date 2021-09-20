@@ -1,0 +1,11 @@
+{
+  "name": "most-used-words",
+  "version": "1.0.0",
+  "description": "Most used words in a series",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
